@@ -3,3 +3,5 @@
 hello,welcome to my kitchen
 pizza
 burger
+
+veg or non-veg
